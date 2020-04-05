@@ -14,7 +14,7 @@
     "preact-router": "^2.6.1",
     "react": "^15.6.2",
     "react-css-variables": "^2.0.1",
-    "sirv-cli": "^0.2.0"
+    "sirv-cli": "^0.4.5"
   },
   "devDependencies": {
     "@pwa/cli": "^0.4.2",
