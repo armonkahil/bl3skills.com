@@ -10,7 +10,7 @@
   "dependencies": {
     "deepmerge": "^3.2.0",
     "preact": "^8.4.2",
-    "preact-compat": "^3.18.5",
+    "preact-compat": "^3.19.0",
     "preact-router": "^2.6.1",
     "react": "^15.6.2",
     "react-css-variables": "^2.0.1",
